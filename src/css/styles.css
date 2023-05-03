@@ -19,3 +19,16 @@ body {
   margin-bottom: 16px;
 }
 
+.country-list {
+  list-style: none;
+}
+
+.country-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.country-list__info {
+  list-style: none;
+}
